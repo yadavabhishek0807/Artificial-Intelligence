@@ -1,5 +1,4 @@
 # Artificial Intelligence 
-### Sayantan Chatterjee - Indian Institue of Information Technology Allahabad (IIT 2015 511)
 
 <img src="https://img.shields.io/badge/language-Python3-brightgreen.svg"/>
 <img src="https://img.shields.io/badge/VS Code-1.10.2-blue.svg"/>  
@@ -33,14 +32,6 @@
 
 * Artificial Intelligence track problems solved in Python3
 * All solutions are properly documented and score the highest possible marks for that question.
-
-## IIIT-A Artificial Intelligence Course (IAIN 532 C)
-
-```
- University   : Indian Institute of Information Technology, Allahabad
- Course code  :	IAIN 532 C
- Semester     :	5
-```
 
 * All solutions of laboratory problems are in Python3 and is present in `IIIT-A Lab (IAIN532C)` directory.
 * Lab assignments are present in `Lab *` directories.
